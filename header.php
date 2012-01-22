@@ -117,7 +117,6 @@
         <li><a title="Coaches" class="team" href="/Coaches">Coaches</a></li>
         <li><a title="Join Us" class="join_us" href="/getting-started-2">Join Us</a></li>
       </ul>
-      <?php get_search_form(); ?>
     </div>
     <div id="announce">
   
@@ -126,5 +125,4 @@
 
 
 	<div id="main">
-    <div id="start_en_short">
-    </div>
+    <div id="start_en_short"></div>
