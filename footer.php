@@ -12,6 +12,15 @@
 
 	</div><!-- #main -->
 
+  <!-- tbb add eieio -->
+    <div id="advertise">
+      <div class="btn_adv"> <a href="http://journal.crossfit.com/start.tpl?version=CFJ-graphic123x63" title="CrossFit Journal: The Performance-Based Lifestyle Resource"><img src="http://journal.crossfit.com/templates/images/graphic-125x63.jpg" width="125" height="63" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a></div>
+      <div class="btn_adv">
+        <a href="http://www.catalyst-meals.com/"><img src="/wp-content/themes/cfa2/images/catalyst.gif" alt="catalyst meals" width="150" height="41" title="catalyst meals" /></a>
+      </div>
+    </div><!-- advertise -->
+  <!-- end tbb -->
+
 	<footer id="colophon" role="contentinfo">
 
 			<?php
