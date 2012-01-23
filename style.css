@@ -105,11 +105,12 @@ body {
 #secondary p {
   font-size:13px;
 }
-
+/*
 #secondary ul {
     list-style-image:url("./images/secondary_ul_bullet.gif");
     margin:0 0 30px 20px;
 }
+*/
 #secondary ul li {
     margin:0 0 0.5em;
     padding:0 0 0 20px;
@@ -542,7 +543,7 @@ a:hover {
 ----------------------------------------------- */
 
 #branding {
-    background:url("./images/start_en.jpg") no-repeat scroll 0 0 transparent;
+    background:url("./images/start_en.png") no-repeat scroll 0 0 transparent;
     margin:0;
 	  z-index: 9999;
 }
@@ -2752,9 +2753,7 @@ hr {
     height:1px;
     line-height:1px;
 }
-h1 {
-    background:url("./images/h1_bg3.jpg") no-repeat scroll 0 0 transparent;
-}
+
 h2 {
     font-size:220%;
     font-weight:normal;
