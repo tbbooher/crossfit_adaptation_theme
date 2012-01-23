@@ -32,10 +32,12 @@
       <h4><a title="Benefits" href="/barbell_and_oly_lifting/">Olympic Lifting and the Barbell Club</a></h4>
       <p>Get stronger with premier coaching</p>
     </div>
+    <!--
     <div class="teaser"> <a class="kettlebell" href="/category/kids/"></a>
       <h4><a title="CF Endurance" href="/cfendurance/">Endurance Training Program</a></h4>
       <p>our endurance sports training program</p>
     </div>
+    -->
     <div class="teaser"> <a class="kettlebell" href="/location/"></a>
       <h4><a title="Location" href="/location/">Location</a></h4>
       <p>in Shirlington, near Alexandria and DC</p>
