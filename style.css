@@ -3482,12 +3482,10 @@ div#announce a {
     text-decoration:none;
 }
 
-
-
 div.coachdesc ul li {
     font-size:1em;
 }
-p.coachdesc {
+div.coach p {
     width: 400px;
 }
 
