@@ -3482,11 +3482,17 @@ div#announce a {
     text-decoration:none;
 }
 
+
+
 div.coachdesc ul li {
     font-size:1em;
 }
-div.coachdesc p {
-    font-size:1em;
+p.coachdesc {
+    width: 400px;
+}
+
+div.coach h2 {
+   font-size: 20px;
 }
 
 /* The Nivo Slider styles */
