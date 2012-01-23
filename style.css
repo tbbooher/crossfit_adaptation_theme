@@ -3021,6 +3021,8 @@ width:25px;
 h3.empfehlung {
   background: url("./images/details.png") no-repeat scroll 0 0 transparent;
   text-indent: -3000px;
+  padding-bottom: 15px;
+  margin-top:10px;
 }
 
 #header a.logo {
