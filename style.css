@@ -152,7 +152,7 @@ a.kettlebell:hover {
 .singular footer.entry-meta,
 .singular #comments-title {
 	margin: 0 auto;
-	width: 490px;
+	width: 480px;
 }
 
 /* Attachments */
@@ -1111,7 +1111,7 @@ article.format-status .entry-content {
 	position: relative;
 }
 .singular.page .hentry {
-	padding: 3.5em 0 0;
+	padding: 1em 0 0;
 }
 .singular .entry-title {
 	color: #5C151F;
@@ -3486,7 +3486,7 @@ div.coachdesc ul li {
     font-size:1em;
 }
 div.coach p {
-    width: 400px;
+    width: 100%;
 }
 
 div.coach h2 {
