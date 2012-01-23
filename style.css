@@ -3004,6 +3004,7 @@ p.next a {
 #header a.kontakt:hover {
     background-position:-70px 0;
 }
+
 /*
 #header a.home {
 background:url("./images/a_home_bg.gif") no-repeat scroll 0 0 transparent;
@@ -3016,6 +3017,11 @@ top:110px;
 width:25px;
 }
 */
+
+h3.empfehlung {
+  background: url("./images/details.png") no-repeat scroll 0 0 transparent;
+  text-indent: -3000px;
+}
 
 #header a.logo {
     display:block;

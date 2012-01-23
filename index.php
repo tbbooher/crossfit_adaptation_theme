@@ -38,6 +38,8 @@
       });
     </script>
 
+    <img src="/wp-content/themes/crossfit_adaptation/images/wod.png" width="289" height="31" alt="WOD" style="border:none;">
+
 		<?php if ( have_posts() ) : ?>
 
 		<?php twentyeleven_content_nav( 'nav-above' ); ?>
