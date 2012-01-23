@@ -3310,32 +3310,7 @@ p.adresse {
 .floatbox {
     overflow:hidden;
 }
-/* coaches page */
- 
-div.coach {
-    width:100%;
-    border-top:1px solid #efefef;
-}
-div.coach_title {
-    font-weight:bold;
-    font-size:medium;
-}
-.coachpic {
-    float:left;
-    border:1px solid gray;
-    padding:0px;
-    line-height:0px;
-}
-.coachdesc {
-    float:right;
-    width:320px;
-    padding-right:2px;
-    font-size:1.2em;
-}
-.clear {
-    clear:both;
-    height:10px;
-}
+
 /* getting started page */
 
 div#get_started_splash {
