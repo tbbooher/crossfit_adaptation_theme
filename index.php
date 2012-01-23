@@ -30,9 +30,11 @@
       <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
     </div>
 
+    <br style="clear:both;">
+
     <script type="text/javascript">
-      $(window).load(function() {
-        $('#slider').nivoSlider({effect: 'fade', randomStart: true});
+      jQuery(window).load(function() {
+        jQuery('#slider').nivoSlider({effect: 'fade', randomStart: true});
       });
     </script>
 
