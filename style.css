@@ -509,7 +509,7 @@ input#searchsubmit {
 
 /* Links */
 a {
-	color: #1982d1;
+	color: #5C151F;
 	text-decoration: none;
 }
 a:focus,
@@ -528,7 +528,7 @@ a:hover {
 #access a.assistive-text:focus {
 	background: #eee;
 	border-bottom: 1px solid #ddd;
-	color: #1982d1;
+	color: #5C151F;
 	clip: auto !important;
 	font-size: 12px;
 	position: absolute;
@@ -758,7 +758,7 @@ a:hover {
 .entry-title a:hover,
 .entry-title a:focus,
 .entry-title a:active {
-	color: #1982d1;
+	color: black;
 }
 .entry-meta {
 	color: #666;
@@ -1064,7 +1064,7 @@ object {
 .entry-header .comments-link a:hover,
 .entry-header .comments-link a:focus,
 .entry-header .comments-link a:active {
-	background-color: #1982d1;
+	background-color: #5C151F;
 	color: #fff;
 	color: rgba(255,255,255,0.8);
 }
@@ -1455,7 +1455,7 @@ article.feature-image.small .entry-summary p a {
 	z-index: 1;
 }
 article.feature-image.small .entry-summary p a:hover {
-	background: #1982d1;
+	background: #5C151F;
 	color: #eee;
 	color: rgba(255,255,255,0.8);
 }
@@ -1591,7 +1591,7 @@ section.feature-image.large img {
 	height: 14px;
 }
 .feature-slider a.active {
-	background: #1982d1;
+	background: black;
 	-webkit-box-shadow: inset 1px 1px 5px rgba(0,0,0,0.4), inset 0 0 2px rgba(255,255,255,0.8);
 	-moz-box-shadow: inset 1px 1px 5px rgba(0,0,0,0.4), inset 0 0 2px rgba(255,255,255,0.8);
 	box-shadow: inset 1px 1px 5px rgba(0,0,0,0.4), inset 0 0 2px rgba(255,255,255,0.8);
@@ -1653,8 +1653,8 @@ section.recent-posts .other-recent-posts .comments-link > span {
 	color: #888;
 }
 section.recent-posts .other-recent-posts .comments-link a:hover {
-	color: #1982d1;
-	border-color: #1982d1;
+	color: #5C151F;
+	border-color: #5C151F;
 }
 section.recent-posts .other-recent-posts li:after {
 	clear: both;
@@ -1816,7 +1816,7 @@ section.recent-posts .other-recent-posts li:after {
 	top: -2px;
 }
 .widget_search #searchsubmit:active {
-	background: #1982d1;
+	background: #5C151F;
 	border-color: #0861a5;
 	-webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.1);
 	-moz-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.1);
@@ -2159,7 +2159,7 @@ a.comment-reply-link > span {
 	text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
 }
 #respond input#submit:active {
-	background: #1982d1;
+	background: #5C151F;
 	color: #bfddf3;
 }
 #respond #cancel-comment-reply-link {
