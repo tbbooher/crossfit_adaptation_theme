@@ -53,6 +53,7 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
 
+<!-- delete ?? -->
 <script type="text/javascript" src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.latest.js"></script>
 
 <script type="text/javascript">
@@ -69,17 +70,12 @@
 
 </script>
 
-<script type="text/javascript" src="/wp-content/js/coin-slider/coin-slider.min.js"></script>
+<!-- don't know why i need this -->
+<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="/wp-content/themes/crossfit_adaptation/nivo-slider.css" media="screen">
 
-<script type="text/javascript">
-	$(document).ready(function() {
-		$('#coin-slider').coinslider();
-	});
-</script>
+<script src="/wp-content/themes/crossfit_adaptation/jquery.nivo.slider.pack.js" type="text/javascript"></script>
 
-
-<link rel="Stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/themes/smoothness/jquery-ui.css">
-<link rel="stylesheet" href="/wp-content/js/coin-slider/coin-slider-styles.css" type="text/css">
 <!-- end tim modification -->
 
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />

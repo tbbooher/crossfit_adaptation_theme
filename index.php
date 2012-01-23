@@ -1,52 +1,71 @@
 <?php
-/**
- * The main template file.
- *
- * This is the most generic template file in a WordPress theme
- * and one of the two required files for a theme (the other being style.css).
- * It is used to display a page when nothing more specific matches a query.
- * E.g., it puts together the home page when no home.php file exists.
- * Learn more: http://codex.wordpress.org/Template_Hierarchy
- *
- * @package WordPress
- * @subpackage Twenty_Eleven
- */
+   /**
+   * The main template file.
+   *
+   * This is the most generic template file in a WordPress theme
+   * and one of the two required files for a theme (the other being style.css).
+   * It is used to display a page when nothing more specific matches a query.
+   * E.g., it puts together the home page when no home.php file exists.
+   * Learn more: http://codex.wordpress.org/Template_Hierarchy
+   *
+   * @package WordPress
+   * @subpackage Twenty_Eleven
+   */
 
-get_header(); ?>
+   get_header(); ?>
 
-		<div id="primary">
-			<div id="content" role="main">
+<div id="primary">
+	<div id="content" role="main">
 
-			<?php if ( have_posts() ) : ?>
+    <div id="slider" class="nivoSlider">
+      <img src="/wp-content/themes/crossfit_adaptation/images/banner/dave.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation/images/banner/sisters.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation/images/banner/scott.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation/images/banner/run_fast.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation/images/banner/pic12.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation/images/banner/pic7.jpg" alt="" >
+    </div>
 
-				<?php twentyeleven_content_nav( 'nav-above' ); ?>
+    <div id="htmlcaption" class="nivo-html-caption">
+      <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
+    </div>
 
-				<?php /* Start the Loop */ ?>
-				<?php while ( have_posts() ) : the_post(); ?>
+    <script type="text/javascript">
+      $(window).load(function() {
+        $('#slider').nivoSlider({effect: 'fade', randomStart: true});
+      });
+    </script>
 
-					<?php get_template_part( 'content', get_post_format() ); ?>
+		<?php if ( have_posts() ) : ?>
 
-				<?php endwhile; ?>
+		<?php twentyeleven_content_nav( 'nav-above' ); ?>
 
-				<?php twentyeleven_content_nav( 'nav-below' ); ?>
+		<?php /* Start the Loop */ ?>
+		<?php while ( have_posts() ) : the_post(); ?>
 
-			<?php else : ?>
+		<?php get_template_part( 'content', get_post_format() ); ?>
 
-				<article id="post-0" class="post no-results not-found">
-					<header class="entry-header">
-						<h1 class="entry-title"><?php _e( 'Nothing Found', 'twentyeleven' ); ?></h1>
-					</header><!-- .entry-header -->
+		<?php endwhile; ?>
 
-					<div class="entry-content">
-						<p><?php _e( 'Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post.', 'twentyeleven' ); ?></p>
-						<?php get_search_form(); ?>
-					</div><!-- .entry-content -->
-				</article><!-- #post-0 -->
+		<?php twentyeleven_content_nav( 'nav-below' ); ?>
 
-			<?php endif; ?>
+		<?php else : ?>
 
-			</div><!-- #content -->
-		</div><!-- #primary -->
+		<article id="post-0" class="post no-results not-found">
+			<header class="entry-header">
+				<h1 class="entry-title"><?php _e( 'Nothing Found', 'twentyeleven' ); ?></h1>
+			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p><?php _e( 'Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post.', 'twentyeleven' ); ?></p>
+				<?php get_search_form(); ?>
+			</div><!-- .entry-content -->
+		</article><!-- #post-0 -->
+
+		<?php endif; ?>
+
+	</div><!-- #content -->
+</div><!-- #primary -->
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
