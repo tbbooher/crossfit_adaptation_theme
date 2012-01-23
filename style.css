@@ -146,6 +146,7 @@ a.kettlebell:hover {
 	margin: 0;
 	position: relative;
 	width: auto;
+  margin-left:13px;
 }
 .singular .entry-header,
 .singular .entry-content,
