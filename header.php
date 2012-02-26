@@ -49,8 +49,10 @@
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 
 <!-- tim modification eieio -->
+<!-- this exists below
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+-->
+
 
 <script type="text/javascript">
 
@@ -72,8 +74,6 @@
  <link rel="stylesheet" type="text/css" href="/wp-content/themes/crossfit_adaptation_theme/nivo-slider.css" media="screen">
 -->
 
-<script src="/wp-content/themes/crossfit_adaptation_theme/jquery.nivo.slider.pack.js" type="text/javascript"></script>
-
 <!-- end tim modification -->
 
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
@@ -94,6 +94,9 @@
 	 */
 	wp_head();
 ?>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+<script src="/wp-content/themes/crossfit_adaptation_theme/jquery.nivo.slider.pack.js" type="text/javascript"></script>
 </head>
 
 <body <?php body_class(); ?>>
