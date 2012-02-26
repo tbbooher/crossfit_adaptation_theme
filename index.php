@@ -18,12 +18,12 @@
 	<div id="content" role="main">
 
     <div id="slider" class="nivoSlider">
-      <img src="/wp-content/themes/crossfit_adaptation/images/banner/dave.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation/images/banner/sisters.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation/images/banner/scott.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation/images/banner/run_fast.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation/images/banner/pic12.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation/images/banner/pic7.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/dave.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/sisters.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/scott.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/run_fast.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic12.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic7.jpg" alt="" >
     </div>
 
     <div id="htmlcaption" class="nivo-html-caption">
@@ -38,7 +38,7 @@
       });
     </script>
 
-    <img src="/wp-content/themes/crossfit_adaptation/images/wod.png" width="289" height="31" alt="WOD" style="border:none;">
+    <img src="/wp-content/themes/crossfit_adaptation_theme/images/wod.png" width="289" height="31" alt="WOD" style="border:none;">
 
 		<?php if ( have_posts() ) : ?>
 
