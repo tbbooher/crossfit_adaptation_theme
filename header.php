@@ -72,10 +72,10 @@
 <!-- don't know why i need this -->
 <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/themes/smoothness/jquery-ui.css">
 <!--
- <link rel="stylesheet" type="text/css" href="/wp-content/themes/crossfit_adaptation/nivo-slider.css" media="screen">
+ <link rel="stylesheet" type="text/css" href="/wp-content/themes/crossfit_adaptation_theme/nivo-slider.css" media="screen">
 -->
 
-<script src="/wp-content/themes/crossfit_adaptation/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<script src="/wp-content/themes/crossfit_adaptation_theme/jquery.nivo.slider.pack.js" type="text/javascript"></script>
 
 <!-- end tim modification -->
 
