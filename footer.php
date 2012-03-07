@@ -22,7 +22,7 @@
         <img src="/wp-content/uploads/2012/03/Erin_logo.jpg" alt="erin logo">
       </div>
       <div class="btn_adv">
-        <img src="/wp-content/uploads/2012/03/i_love_my_spine.png" alt="i love my spine">
+        <img src="/wp-content/uploads/2012/03/i_love_my_spine.png" alt="i love my spine" style="border:none;">
       </div>
     </div><!-- advertise -->
   <!-- end tbb -->
