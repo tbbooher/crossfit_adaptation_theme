@@ -24,7 +24,9 @@
         </a>
       </div>
       <div class="btn_adv">
-        <img src="/wp-content/uploads/2012/03/i_love_my_spine.png" alt="i love my spine" style="border:none;">
+        <a href="http://ilovemyspine.com">
+           <img src="/wp-content/uploads/2012/03/i_love_my_spine.png" alt="i love my spine" style="border:none;">
+        </a>
       </div>
     </div><!-- advertise -->
   <!-- end tbb -->
