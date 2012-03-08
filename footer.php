@@ -19,7 +19,9 @@
         <a href="http://dc.mypowersupply.com/"><img src="/wp-content/themes/crossfit_adaptation_theme/images/powersupply-crest.png" alt="catalyst meals" width="170" height="69" title="Power Supply Meals" style="border:none;"></a>
       </div>
       <div class="btn_adv">
-        <img src="/wp-content/uploads/2012/03/Erin_logo.jpg" alt="erin logo">
+        <a href="http://www.arlingtonsportsmassage.com/">
+           <img src="/wp-content/uploads/2012/03/Erin_logo.jpg" alt="erin logo">
+        </a>
       </div>
       <div class="btn_adv">
         <img src="/wp-content/uploads/2012/03/i_love_my_spine.png" alt="i love my spine" style="border:none;">
