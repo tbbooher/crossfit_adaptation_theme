@@ -18,12 +18,10 @@
 	<div id="content" role="main">
 
     <div id="slider" class="nivoSlider">
-      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/dave.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/sisters.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/scott.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/run_fast.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic12.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic7.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic1.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic2.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic4.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic5.jpg" alt="" >
     </div>
 
     <div id="htmlcaption" class="nivo-html-caption">
