@@ -19,7 +19,7 @@
 
     <div id="slider" class="nivoSlider">
       <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic1.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic2.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic7.jpg" alt="" >
       <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic4.jpg" alt="" >
       <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic5.jpg" alt="" >
       <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic6.jpg" alt="" >
