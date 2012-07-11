@@ -31,6 +31,24 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	padding: 0;
 	vertical-align: baseline;
 }
+/* extra for scheduling */
+
+table {
+ width:100%;
+ font-size:13px;
+ table-layout:fixed;
+}
+.sch_row {
+ background-color: #999;
+ text-align: center;
+ border: 1px solid black;
+}
+td {padding: 5px !important;}
+td.week { width: 17%; text-align: center; font-weight: bolder; }
+td.weekend { width: 41%; text-align: center; font-weight: bolder;}
+
+/* end extra for scheduling */
+
 :focus {/* remember to define focus styles! */
 	outline: 0;
 }
