@@ -28,6 +28,11 @@
            <img src="/wp-content/uploads/2012/03/i_love_my_spine.png" alt="i love my spine" style="border:none;">
         </a>
       </div>
+      <div class="btn_adv">
+          <a target="_blank" href="http://www.shareasale.com/r.cfm?b=326747&u=662935&m=34288&urllink=&afftrack=">
+             <img src="http://www.shareasale.com/image/34288/125x125_performance.jpg" alt="Crossfit Store" border="0">
+          </a>       
+      </div>
     </div><!-- advertise -->
   <!-- end tbb -->
 
