@@ -42,10 +42,12 @@
       <h4><a title="Location" href="/location/">Location</a></h4>
       <p>in Shirlington, near Alexandria and DC</p>
     </div>
+    <!--
     <div class="teaser"> <a class="kettlebell" href="/paleo/"></a>
       <h4><a title="Paleo Diet" href="/paleo/">Paleo Diet</a></h4>
       <p>fuel your work. take the challenge.</p>
     </div>
+    -->
     <div class="teaser"> <a class="kettlebell" href="/contact_us/"></a>
       <h4><a title="Paleo Diet" href="/contact_us/">Contact</a></h4>
       <p>let us answer your questions/concerns</p>
