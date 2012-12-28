@@ -66,8 +66,9 @@
       <!-- End of Flickr Badge --> 
       <!-- /flickr --> 
     </div>
+    <!-- CFAVideoChannel -->
     <div style="padding:20px 0 0 50px;">
-      <a href="http://www.youtube.com/subscription_center?add_user=CurtisCFA&feature=creators_cornier-http%3A//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_128x128_grey.png"><img src="http://s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_128x128_grey.png" alt="Subscribe to me on YouTube"/></a><img src="http://www.youtube-nocookie.com/gen_204?feature=creators_cornier-http%3A//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_128x128_grey.png" style="display: none"/>
+      <a href="http://www.youtube.com/subscription_center?add_user=CFAVideoChannel&feature=creators_cornier-http%3A//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_128x128_grey.png"><img src="http://s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_128x128_grey.png" alt="Subscribe to me on YouTube"/></a><img src="http://www.youtube-nocookie.com/gen_204?feature=creators_cornier-http%3A//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_128x128_grey.png" style="display: none"/>
     </div>
   </aside>
 
