@@ -14,9 +14,17 @@
 
   <!-- tbb add eieio -->
     <div id="advertise">
-      <div class="btn_adv"> <a href="http://journal.crossfit.com/start.tpl?version=CFJ-graphic123x63" title="CrossFit Journal: The Performance-Based Lifestyle Resource"><img src="http://journal.crossfit.com/templates/images/graphic-125x63.jpg" width="125" height="63" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a></div>
       <div class="btn_adv">
-        <a href="http://dc.mypowersupply.com/"><img src="/wp-content/themes/crossfit_adaptation_theme/images/powersupply-crest.png" alt="catalyst meals" width="170" height="69" title="Power Supply Meals" style="border:none;"></a>
+        <a href="http://www.crossfitfallschurch.com/">
+          <img src="/wp-content/themes/crossfit_adaptation_theme/images/CrossFit_FallsChurch_Logo.jpg" width="150" height="72" title="CrossFit Falls Church">
+        </a>
+      </div>
+      <div class="btn_adv">
+        <a href="http://journal.crossfit.com/start.tpl?version=CFJ-graphic123x63" title="CrossFit Journal: The Performance-Based Lifestyle Resource"><img src="http://journal.crossfit.com/templates/images/graphic-125x63.jpg" width="125" height="63" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a>
+      </div>
+      <div class="btn_adv">
+        <a href="http://dc.mypowersupply.com/">
+        <img src="/wp-content/themes/crossfit_adaptation_theme/images/powersupply-crest.png" alt="catalyst meals" width="170" height="69" title="Power Supply Meals" style="border:none;"></a>
       </div>
       <div class="btn_adv">
         <a href="http://www.arlingtonsportsmassage.com/">
