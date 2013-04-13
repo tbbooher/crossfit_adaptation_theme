@@ -23,7 +23,9 @@
         <a href="http://journal.crossfit.com/start.tpl?version=CFJ-graphic123x63" title="CrossFit Journal: The Performance-Based Lifestyle Resource"><img src="http://journal.crossfit.com/templates/images/graphic-125x63.jpg" width="125" height="63" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a>
       </div>
       <div class="btn_adv">
-        <a href="http://www.crossfitkids.com"><img src="http://media.crossfit.com/badges/CFK_logo_v_tag_color_lightbg.png" style="background-color:white;"></a>
+          <a href="http://kids.crossfitfallschurch.com/">
+            <img src="/wp-content/themes/crossfit_fallschurch_theme/images/CFFC_kids_logo.jpg" width="230px" height="76px">
+          </a>
       </div>
       <div class="btn_adv">
         <a href="http://dc.mypowersupply.com/">
