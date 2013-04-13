@@ -22,7 +22,7 @@
       <div class="btn_adv">
         <a href="http://journal.crossfit.com/start.tpl?version=CFJ-graphic123x63" title="CrossFit Journal: The Performance-Based Lifestyle Resource"><img src="http://journal.crossfit.com/templates/images/graphic-125x63.jpg" width="125" height="63" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a>
       </div>
-      <div class="btn_adv">
+      <div class="btn_adv" style="background-color:white;">
         <a href="http://www.crossfitkids.com"><img src="http://media.crossfit.com/badges/CFK_logo_v_tag_color_lightbg.png"></a>
       </div>
       <div class="btn_adv">
