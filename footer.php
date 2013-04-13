@@ -24,7 +24,7 @@
       </div>
       <div class="btn_adv">
           <a href="http://kids.crossfitfallschurch.com/">
-            <img src="/wp-content/themes/crossfit_fallschurch_theme/images/CFFC_kids_logo.jpg" width="230px" height="76px">
+            <img src="/wp-content/themes/crossfit_adaptation_theme/images/CFFC_kids_logo.jpg" width="150px" height="49px">
           </a>
       </div>
       <div class="btn_adv">
