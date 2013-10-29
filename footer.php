@@ -35,7 +35,8 @@
       </div> -->
       <div class="btn_adv">
         <a href="http://dc.mypowersupply.com/">
-        <img src="/wp-content/themes/crossfit_adaptation_theme/images/powersupply-crest.png" alt="catalyst meals" width="170" height="69" title="Power Supply Meals" style="border:none;"></a>
+          <img src="/wp-content/themes/crossfit_adaptation_theme/images/powersupply-crest.png" alt="catalyst meals" width="170" height="69" title="Power Supply Meals" style="border:none;">
+        </a>
       </div>      
       <div class="btn_adv">
         <a href="http://www.arlingtonsportsmassage.com/">
@@ -47,6 +48,11 @@
              <img src="http://www.shareasale.com/image/34288/125x125_performance.jpg" alt="Crossfit Store" border="0">
           </a>       
       </div>
+      <div class="btn_adv">
+          <a target="_blank" href="http://www.ptpnova.com/">
+             <img src="/wp-content/themes/crossfit_adaptation_theme/images/Chrissy_logo.jpg" alt="Crossfit Store" border="0">
+          </a>       
+      </div>      
     </div><!-- advertise -->
   <!-- end tbb -->
 
