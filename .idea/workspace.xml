@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3b8b3e2-4b97-453a-b81f-f87d765c6c9d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-    </list>
+    <list default="true" id="e3b8b3e2-4b97-453a-b81f-f87d765c6c9d" name="Default" comment="" />
     <ignored path="crossfit_adaptation_theme.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="e3b8b3e2-4b97-453a-b81f-f87d765c6c9d" time="1383878478291" ignored="false" />
@@ -115,6 +113,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cfa_corporate/cfa_corporate_from_roots" />
   </component>
   <component name="RunManager">
     <list size="0" />

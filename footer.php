@@ -33,11 +33,21 @@
             <img src="/wp-content/themes/crossfit_adaptation_theme/images/CFFC_kids_logo.jpg" width="150px" height="49px">
           </a>
       </div> -->
+      <div class="btn_adv">      
+        <a href="http://dc.mypowersupply.com/">
+          <img src="/wp-content/themes/crossfit_adaptation_theme/images/powersupply-crest.png" alt="catalyst meals" width="170" height="69" title="Power Supply Meals" style="border:none;">
+        </a>          
+      </div>
       <div class="btn_adv">
         <a href="https://www.customfitmeals.com/order-meals">
           <img src="/wp-content/themes/crossfit_adaptation_theme/images/CFM-LOGO-w-tag.gif" alt="Custom Fit Meals" width="150px" height="63px" title="Custom Fit Meals" style="border:none;">
         </a>
-      </div>      
+      </div>
+      <div class="btn_adv">
+        <a href="https://www.customfitmeals.com/order-meals">
+          <img src="/wp-content/themes/crossfit_adaptation_theme/images/CFM-LOGO-w-tag.gif" alt="Custom Fit Meals" width="150px" height="63px" title="Custom Fit Meals" style="border:none;">
+        </a>
+      </div>            
       <div class="btn_adv">
         <a href="http://www.arlingtonsportsmassage.com/">
            <img src="/wp-content/themes/crossfit_adaptation_theme/images/Erin_logo.jpg" alt="erin logo">
