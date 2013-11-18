@@ -42,12 +42,7 @@
         <a href="https://www.customfitmeals.com/order-meals">
           <img src="/wp-content/themes/crossfit_adaptation_theme/images/CFM-LOGO-w-tag.gif" alt="Custom Fit Meals" width="150px" height="63px" title="Custom Fit Meals" style="border:none;">
         </a>
-      </div>
-      <div class="btn_adv">
-        <a href="https://www.customfitmeals.com/order-meals">
-          <img src="/wp-content/themes/crossfit_adaptation_theme/images/CFM-LOGO-w-tag.gif" alt="Custom Fit Meals" width="150px" height="63px" title="Custom Fit Meals" style="border:none;">
-        </a>
-      </div>            
+      </div>   
       <div class="btn_adv">
         <a href="http://www.arlingtonsportsmassage.com/">
            <img src="/wp-content/themes/crossfit_adaptation_theme/images/Erin_logo.jpg" alt="erin logo">
