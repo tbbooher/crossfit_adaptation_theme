@@ -29,7 +29,7 @@
       <p>flexibility, strength, balance, posture</p>
     </div>
     <div class="teaser"> <a class="kettlebell" href="/yoga/"></a>
-      <h4>Newsletter and Mobility Archives</h4>
+      <h4 style="font-weight: bold; color: #5C151F;">Newsletter and Mobility Archives</h4>
       <p>tips and videos to improve performance</p>
       <p style="padding-left:38px;"><a href="/mobility-video-archives/">mobility videos</a> | <a href="/newsletter-archives/">newsletters</a></p>
     </div>
