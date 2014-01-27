@@ -29,9 +29,9 @@
       <p>flexibility, strength, balance, posture</p>
     </div>
     <div class="teaser"> <a class="kettlebell" href="/yoga/"></a>
-      <h4><a href="#">Newsletter and Mobility Archives</a></h4>
+      <h4>Newsletter and Mobility Archives</h4>
       <p>tips and videos to improve performance</p>
-      <p><a href="/mobility-video-archives/">mobility videos</a> | <a href="/newsletter-archives/">newsletters</a></p>
+      <p style="padding-left:38px;"><a href="/mobility-video-archives/">mobility videos</a> | <a href="/newsletter-archives/">newsletters</a></p>
     </div>
 
     <div class="teaser"> <a class="kettlebell" href="/barbell_and_oly_lifting/"></a>
