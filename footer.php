@@ -44,11 +44,6 @@
         </a>
       </div>   
       <div class="btn_adv">
-        <a href="http://www.arlingtonsportsmassage.com/">
-           <img src="/wp-content/themes/crossfit_adaptation_theme/images/Erin_logo.jpg" alt="erin logo">
-        </a>
-      </div>
-      <div class="btn_adv">
           <a target="_blank" href="http://www.shareasale.com/r.cfm?b=326747&u=662935&m=34288&urllink=&afftrack=">
              <img src="http://www.shareasale.com/image/34288/125x125_performance.jpg" alt="Crossfit Store" border="0">
           </a>       
