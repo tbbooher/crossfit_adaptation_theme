@@ -50,9 +50,9 @@
       </div>
       <div class="btn_adv">
           <a target="_blank" href="http://www.ptpnova.com/">
-             <img src="/wp-content/themes/crossfit_adaptation_theme/images/Chrissy_logo.jpg" alt="Crossfit Store" border="0">
+             <img src="/wp-content/themes/crossfit_adaptation_theme/images/cross_functional.png" alt="Crossfit Store" style="border:none;">
           </a>       
-      </div>      
+      </div>
     </div><!-- advertise -->
   <!-- end tbb -->
 
