@@ -24,7 +24,7 @@
       <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic4.jpg" alt="" >
       <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic5.jpg" alt="" >
       <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic6.jpg" alt="" >
-      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic7.jpg" alt="" >
+      <img src="/wp-content/themes/crossfit_adaptation_theme/images/banner/pic8.png" alt="" >
     </div>
 
     <div id="htmlcaption" class="nivo-html-caption">
