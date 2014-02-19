@@ -49,10 +49,16 @@
           </a>       
       </div>
       <div class="btn_adv">
-          <a target="_blank" href="http://www.ptpnova.com/">
-             <img src="/wp-content/themes/crossfit_adaptation_theme/images/cross_functional.png" alt="Crossfit Store" style="border:none;">
+          <a target="_blank" href="http://crossfunctionalrehab.com/">
+             <img src="/wp-content/themes/crossfit_adaptation_theme/images/cross_functional.png" alt="Cross Functional" style="border:none;">
           </a>       
       </div>
+      <div class="btn_adv">
+          <a target="_blank" href="">
+             <img src="/wp-content/themes/crossfit_adaptation_theme/images/kx.png" alt="Cross Functional" style="border:none;">
+          </a>       
+      </div>      
+
     </div><!-- advertise -->
   <!-- end tbb -->
 
