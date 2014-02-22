@@ -54,7 +54,7 @@
           </a>       
       </div>
       <div class="btn_adv">
-          <a target="_blank" href="">
+          <a target="_blank" href="http://www.facebook.com/kxphotos">
              <img src="/wp-content/themes/crossfit_adaptation_theme/images/kx.png" alt="Cross Functional" style="border:none;">
           </a>       
       </div>      
