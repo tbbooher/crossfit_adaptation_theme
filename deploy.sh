@@ -1,0 +1,1 @@
+ssh root@rufus "cd cfa/; git pull origin master"
