@@ -109,7 +109,7 @@
       <a title="Facebook" class="fb" href="http://www.facebook.com/pages/CrossFit-Adaptation/115019278525818">Facebook</a>
       <!-- <a title="Follow us on Twitter" class="tw" href="http://twitter.com/riders_network">Twitter</a> -->
       <ul>
-        <li><a title="Home" class="home" href="http://www.crossfitadaptation.com/">Home</a></li>
+<!--         <li><a title="Home" class="home" href="http://www.crossfitadaptation.com/">Home</a></li> -->
         <li><a title="Schedule" class="schedule" href="/schedule">Schedule</a></li>
 <!--         <li><a title="Coaches" class="team" href="/Coaches">Coaches</a></li> -->
         <li><a title="Corporate" class="corporate" href="http://corporate.crossfitadaptation.com">Corporate</a></li>
