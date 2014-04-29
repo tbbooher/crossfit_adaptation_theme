@@ -1,4 +1,4 @@
-/*
+1/*
 Theme Name: Crossfit Adaptation
 Theme URI: http://www.crossfitadaptation.com/
 Author: Tim Booher
@@ -3120,7 +3120,7 @@ a.tw:hover {
 #header ul {
     list-style-type:none;
     margin:0;
-    padding-left:114px;
+    /*padding-left:114px;*/
 }
 #header ul li {
     float:left;
@@ -3131,31 +3131,37 @@ a.tw:hover {
     height:35px;
     outline:medium none;
     text-indent:-3000px;
+    width:155px;
+    background-position-x: center !important;
 }
+
+a.home {
+	width:0px;
+	display: none;
+}
+
 #header a.team {
     background:url("./images/team_full.png") no-repeat scroll 0 0 transparent;
     margin:0px;
-    width:167px;
 }
 #header a.schedule {
     background:url("./images/Schedule_full.png") no-repeat scroll 0 0 transparent;
     margin:0px;
-    width:167px;
 }
 
 #header a.corporate {
     background:url("./images/corporate.png") no-repeat scroll 0 0 transparent;
     margin:0px;
-    width:167px;
 }
 
 #header a.join_us {
     background:url("./images/JoinUs_full.png") no-repeat scroll 0 0 transparent;
-    width:167px;
 }
+
 #header ul li a:hover {
     background-position:0 -35px;
 }
+
 #content_wrap {
     clear:both;
     float:left;
