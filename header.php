@@ -111,7 +111,7 @@
       <ul>
 <!--         <li><a title="Home" class="home" href="http://www.crossfitadaptation.com/">Home</a></li> -->
         <li><a title="Schedule" class="schedule" href="/schedule">Schedule</a></li>
-<!--         <li><a title="Coaches" class="team" href="/Coaches">Coaches</a></li> -->
+        <li><a title="Coaches" class="team" href="/Coaches">Coaches</a></li>
         <li><a title="Corporate" class="corporate" href="http://corporate.crossfitadaptation.com">Corporate</a></li>
         <li><a title="Join Us" class="join_us" href="/getting-started-2">Join Us</a></li>
       </ul>
