@@ -28,11 +28,6 @@
       <h4><a title="Benefits" href="/yoga/">Yoga for Athletes</a></h4>
       <p>flexibility, strength, balance, posture</p>
     </div>
-    <div class="teaser"> <a class="kettlebell" href="/yoga/"></a>
-      <h4 style="font-weight: bold; color: #5C151F;">Newsletter and Mobility Archives</h4>
-      <p>tips and videos to improve performance</p>
-      <p style="padding-left:38px;"><a href="/mobility-video-archives/">mobility videos</a> | <a href="/newsletter-archives/">newsletters</a></p>
-    </div>
 
     <div class="teaser"> <a class="kettlebell" href="/barbell_and_oly_lifting/"></a>
       <h4><a title="Benefits" href="/barbell_and_oly_lifting/">Olympic Lifting and the Barbell Club</a></h4>
