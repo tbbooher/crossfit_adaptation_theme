@@ -48,11 +48,6 @@
              <img src="http://www.shareasale.com/image/34288/125x125_performance.jpg" alt="Crossfit Store" border="0">
           </a>       
       </div>
-      <div class="btn_adv">
-          <a target="_blank" href="http://crossfunctionalrehab.com/">
-             <img src="/wp-content/themes/crossfit_adaptation_theme/images/cross_functional.png" alt="Cross Functional" style="border:none;">
-          </a>       
-      </div>
     </div><!-- advertise -->
   <!-- end tbb -->
 
